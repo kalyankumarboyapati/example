@@ -1,4 +1,3 @@
-# Example Repository
-this is a sample repo, hello world!
+this is example 1 for git 
 
-this is the second change
+enjoy this example
